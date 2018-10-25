@@ -3,7 +3,7 @@ import { Text, View, StyleSheet, ActivityIndicator, StatusBar } from 'react-nati
 import { Constants } from 'expo';
 import Weather from './Weather';
 
-const API_KEY = 'fa6898c798d676c3c6fa663a9fb6756a';
+const API_KEY = '';
 
 export default class App extends React.Component {
   state = {
